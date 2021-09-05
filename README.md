@@ -21,7 +21,7 @@
          alt="Git">
   </a>
     <a href="">
-    <img src="https://github.com/shanky1947/github-badges/blob/master/made-by-shashank%20(2).svg"
+    <img src="https://github.com/shanky1947/github-badges/blob/master/made-by-shashank.svg"
          alt="Javascript">
   </a>
 </p>
